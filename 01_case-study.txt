@@ -1,0 +1,44 @@
+Case Study #1
+
+Problem: Our IT company embarked on an ambitious project in January 2024 
+aimed at delivering a cutting-edge software solution to our users and clients.
+The project was meticulously planned with a target launch date of June 1.
+However, as the deadline approaches, it becomes apparent that 
+several tasks are still in progress, and there are unresolved bugs 
+that need attention. The testing process, crucial for ensuring product quality, 
+has not yet begun. As a software engineer involved in the project, 
+what aspects could have been handled better to prevent the delays and 
+issues experienced, such as incomplete tasks, unresolved bugs, and 
+a delayed testing process?
+
+
+For this activity, evaluate the situation and offer your suggestions on areas 
+where improvements could have been made.
+
+
+
+// Answers:
+EVALUATION AND SUGGESTION FOR IMPROVEMENT:
+
+As a Software Engineer involved in the project, things that I can suggest and
+recommend are:
+
+1. Make a timeline for work breakdowns of the project. Use GANTT Chart, 
+PERT (Program Evaluation Review Technique) to calculate for expected time or 
+use other schedule priorization techniques that the team can use.
+2. After identifying all works that needs to be first prioritized including 
+the expected time and dates, make a initiation teams that will be doing each 
+divided tasks for their completion (For example, a team for 
+bug testing and then give them a deadline to finish their task.)
+     // The deadline should have a gap for unforseen incidents such as 
+     unexpected occurrence like power outrage or sudden emergencies.
+3. The project manager should be checking each teams every now and then for 
+their progress to check for quality and tasks that needs to be polished. 
+     // Persistence and proper communication should be one 
+     of a trait that the project manager should have.
+4. In terms of unexpected poor performance from the team, 
+as a head of the team, the team should be open to possible changes and 
+adjustments without disrupting the quality of the system or product.
+5. For better outcomes for future projects, feedbacks for improvements should 
+always be addressed.
+
