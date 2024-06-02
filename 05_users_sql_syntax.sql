@@ -80,8 +80,3 @@ VALUES
 ('Abernathy Group', 'Implemented secondary concept', 'e-enable extensible e-tailers', 8),
 ('Yost and Sons', 'Switchable contextually-based project', 'aggregate real-time technologies', 9),
 ('Hoeger LLC', 'Centralized empowering task-force', 'target end-to-end models', 10);
-
-
-SELECT * FROM users u
-JOIN companies c ON (u.id = c.user_id)
-JOIN addresses a ON (u.id = a.user_id)
